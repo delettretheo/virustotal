@@ -1,0 +1,4 @@
+Test n°2 calcul de l'empreinte SHA256 et envoie à VirusTotal de l'empreinte seule
+Ce fichier contient la signature du virus de test EICAR - European Institute for Computer Antivirus Research
+X5O!P%@AP[4\PZX54(P^)7CC)7}$EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*
+Ce fichier ne représente aucun danger.
