@@ -5,3 +5,5 @@ Ce repository contient un script python permettant de soumettre des fichier pour
 Un fichier log est créé et mis à jour tout au long de l’exécution.
 
 Les dossiers à traiter sont configurés dans le fichier ". /build-v2/data/virus-hunter.cfg".
+
+!!! Attention, ce code n'est pas fonctionnel en l'état, des corrections seront apportées sous peu. !!!
